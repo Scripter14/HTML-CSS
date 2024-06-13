@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading1 {
+    font-family: Roboto;
+    color: #aa5b1;
+    font-size: 15px;
+}
+
+.bg-container1 {
+    height: 100vh;
+    background-color: #1b1b1b;
+    padding: 6px;
+}
+
+.heading2 {
+    font-family: Bree Serif;
+    font-size: 21px;
+    color: #ffffff;
+    margin: 18px;
+}
+
+.card1 {
+    background-color: #e6f6ff;
+    margin: 20px;
+    border-radius: 10px;
+    height: auto;
+    width: 85vw;
+    padding: 6px;
+
+}
+
+.image1 {
+    height: auto;
+    width: 90px;
+}
+
+.heading3 {
+    font-family: Bree Serif;
+    font-size: 10px;
+    color: #183b56;
+    margin: 10px;
+}
+
+.para1 {
+    font-family: Bree Serif;
+    font-size: 9px;
+    color: #06070d;
+    margin: 10px;
+}
+
+
+
+.image2 {
+    height: auto;
+    width: 90px;
+    margin: 15px;
+}
+
+.heading4 {
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #ffffff;
+    margin: 10px;
+
+}
+
+.card2 {
+    background-color: #1b1b1b;
+    height: auto;
+    width: 100vw;
+    padding: 6px;
+}
+
+.picture1 {
+    text-align: center;
+}
+
+.pic1 {
+    height: 60vh;
+    width: 50vw;
+    margin: 40px;
+
+}
+
+.heading5 {
+    font-family: Bree Serif;
+    font-size: 25px;
+    padding: 0px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.para2 {
+    font-family: Bree Serif;
+    font-size: 10px;
+
+    text-align: center;
+    color: #ffffff;
+}
+
+.title {
+    font-family: Bree Serif;
+    font-size: 13px;
+    color: #e6f6ff;
+    text-align: center;
+}
+
+.buttonalignment {
+    text-align: center;
+}
+
+.button2 {
+    color: #06070d;
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    border-width: 0px;
+    background-color: yellow;
+    font-size: 11px;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+.button3 {
+    color: #ffffff;
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    border-width: 0px;
+    background-color: blue;
+    font-size: 11px;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+.bg-container2 {
+    height: auto;
+    background-color: #1b1b1b;
+}
+
+.custom-link {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #2d6cdf;
+    border-radius: 5px;
+}
+
+.custom-link:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
